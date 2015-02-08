@@ -7,7 +7,7 @@ l - Move the current piece right<br>
 m - Move the current piece down<br>
 p - Pause the game<br>
 q - Quit the game<br>
-<space> - Drop the current piece<br>
+[space] - Drop the current piece<br>
 
 <h3>Executables</h3>
 
